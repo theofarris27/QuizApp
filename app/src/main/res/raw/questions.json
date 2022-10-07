@@ -1,0 +1,93 @@
+[
+  {
+    "question": "Is this quiz going to be hard?",
+    "answer": true,
+    "currentQuestion": 1
+  },
+  {
+    "question": "Is Mr. Reagan's name spelled correctly?",
+    "answer": false,
+    "currentQuestion": 2
+  },
+  {
+    "question": "Is Mr. Shor's name spelled correctly?",
+    "answer": false,
+    "currentQuestion": 3
+  },
+  {
+    "question": "Is this assignment easy?",
+    "answer": false,
+    "currentQuestion": 4
+  },
+  {
+    "question": "Mr. Shorr is the best comp sci teacher",
+    "answer": true,
+    "currentQuestion": 5
+  },
+  {
+    "question": "Is Mr. Guyou's name spelled correctly?",
+    "answer": false,
+    "currentQuestion": 6
+  },
+  {
+    "question": "Math is the best subject",
+    "answer": false,
+    "currentQuestion": 7
+  },
+  {
+    "question": "CSGO is better than Valorant",
+    "answer": true,
+    "currentQuestion": 8
+  },
+  {
+    "question": "Windows is better than mac",
+    "answer": true,
+    "currentQuestion": 9
+  },
+  {
+    "question": "Mr. Whitney is the best Spanish teacher",
+    "answer": true,
+    "currentQuestion": 10
+  },
+  {
+    "question": "Mrs. Shires should be fired",
+    "answer": true,
+    "currentQuestion": 11
+  },
+  {
+    "question": "This quiz is too long",
+    "answer": true,
+    "currentQuestion": 12
+  },
+  {
+    "question": "The logcat is very important",
+    "answer": false,
+    "currentQuestion": 13
+  },
+  {
+    "question": "Sorry for the last problem. The answer is actually true.",
+    "answer": true,
+    "currentQuestion": 14
+  },
+  {
+    "question": "The last problem was easy",
+    "answer": true,
+    "currentQuestion": 15
+  },
+  {
+    "question": "There are 10 questions left",
+    "answer": true,
+    "currentQuestion": 16
+  },
+  {
+    "question": "The last problem is correct",
+    "answer": false,
+    "currentQuestion": 17
+  },
+  {
+    "question": "This quiz was very important",
+    "answer": false,
+    "currentQuestion": 18
+  }
+]
+
